@@ -1,4 +1,4 @@
-### Post de Instgram
+### Post de Instagram
 Crear un post de instagram utilizando HTLM y CSS
 
   #### Fundamentos:
