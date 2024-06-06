@@ -1,5 +1,5 @@
 ### Post de Instagram
-Crear un post de instagram utilizando HTLM y CSS
+Ejercicio para crear un post de instagram utilizando HTML y CSS
 
   #### Fundamentos:
 Este ejercicio cubre los siguientes fundamentos:
